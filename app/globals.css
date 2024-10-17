@@ -15,7 +15,7 @@ body {
 };
 
 .home {
-  text-align: center;
+  
 }
 
 .form-container {
@@ -25,7 +25,7 @@ body {
   transform: translate(-50%, -50%);
   width: 500px;
   height: 600px;
-  text-align: center;
+  text-align: center !important;
 }
 
 img {
